@@ -1,0 +1,8 @@
+.make-horizontal {
+  display:flex;
+  flex-direction: row;
+}
+
+p {
+  margin: 5px;
+}
