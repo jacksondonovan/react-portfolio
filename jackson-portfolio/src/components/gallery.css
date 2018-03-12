@@ -6,3 +6,22 @@
 p {
   margin: 5px;
 }
+
+.jumbo {
+  margin-left: 35px;
+  margin-right: 35px;
+  background-image: url('');
+}
+
+.herobutton, .herotext, h1 {
+  margin-left: 20px;
+}
+
+.herobutton Link {
+  color:#FFF;
+}
+
+.texttowhite {
+  color:white;
+  text-decoration: none;
+}
